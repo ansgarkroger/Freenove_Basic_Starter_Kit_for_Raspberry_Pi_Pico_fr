@@ -1,75 +1,72 @@
 ## Freenove_Basic_Starter_Kit_for_Raspberry_Pi_Pico
 
-> A Projects Kit for Raspberry Pi Pico ( Pico W ).
+> Ceci est une tentative de traduire ce tutoriel en français 
+
+> Une kit pour des projets pour Raspberry Pi Pico ( Pico W ).
 
 <img src='Picture/PartsList.jpg' width='100%'/>
 
-### Download
+### Téléchargement
 
-* **Use command in console**
+* **Par la ligne de commande**
 
-	Run following command to download all the files in this repository.
+	Executer la commande suivante pour télécharger to les fichiers de ce référentiel git.
 
 	`git clone https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Raspberry_Pi_Pico.git`
 
-* **Manually download in browser**
+* **Télécharger manuellement dans le navigateur**
 
-	Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window.
-	Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+	Cliquez sur le bouton vert "Clone or download", puis cliquez sur le bouton "Download ZIP" dans la fenêtre contextuelle.
+	Ne cliquez PAS sur le bouton "Open in Desktop", cela vous conduira à installer le logiciel Github.
 
-> If you meet any difficulties, please contact our support team for help.
+> En cas de problèmes contacter l'assistance pour obtenir de l'aide (en anglais).
 
-### Support
+### Assistance
 
-Freenove provides free and quick customer support. Including but not limited to:
+Freenove fournit une assistance client gratuite et rapide. Y compris pour:
 
-* Quality problems of products
-* Using Problems of products
-* Questions of learning and creation
-* Opinions and suggestions
-* Ideas and thoughts
+* Problèmes de qualité des produits
+* Problèmes d'utilisation des produits
+* Questions d'apprentissage et de création
+* Avis et suggestions
 
-Please send an email to:
+Envoyer un email à:
 
 [support@freenove.com](mailto:support@freenove.com)
 
-We will reply to you within one working day.
+Nous vous répondrons dans les 24h.
 
-### Purchase
+### Achats
 
-Please visit the following page to purchase our products:
+Veuillez visiter la page suivante pour acheter nos produits:
 
 http://store.freenove.com
 
-Business customers please contact us through the following email address:
+### Droits d'Auteur
 
-[sale@freenove.com](mailto:sale@freenove.com)
-
-### Copyright
-
-All the files in this repository are released under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Tous les fichiers de ce référentiel sont publiés sous licence [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ![markdown](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
-This means you can use them on your own derived works, in part or completely. But NOT for the purpose of commercial use.
-You can find a copy of the license in this repository.
+Cela signifie que vous pouvez les utiliser sur vos propres œuvres dérivées, en partie ou en totalité. Mais PAS à des fins commerciales.
+Vous pouvez trouver une copie de la licence dans ce référentiel.
 
-Freenove brand and logo are copyright of Freenove Creative Technology Co., Ltd. Can't be used without formal permission.
+La marque et le logo Freenove sont la propriété de Freenove Creative Technology Co., Ltd. Ne peuvent être utilisés sans autorisation formelle.
 
 
-### About
+### A propos de nous
 
-Freenove is an open-source electronics platform.
+Freenove est une plateforme électronique open-source.
 
-Freenove is committed to helping customer quickly realize the creative idea and product prototypes, making it easy to get started for enthusiasts of programing and electronics and launching innovative open source products.
+Freenove s'engage à aider les clients à concrétiser rapidement l'idée créative et les prototypes de produits, en facilitant le démarrage des passionnés de programmation et d'électronique et en lançant des produits open source innovants.
 
-Our services include:
+Nos services incluent :
 
-* Robot kits
-* Learning kits for Arduino, Raspberry Pi and micro:bit
-* Electronic components and modules, tools
-* Product customization service
+* Kits robots
+* Kits d'apprentissage pour Arduino, Raspberry Pi et micro:bit
+* Composants et modules électroniques, outils
+* Service de personnalisation du produit
 
-Our code and circuit are open source. You can obtain the details and the latest information through visiting the following web site:
+Notre code et notre circuit sont open source. Vous pouvez obtenir les détails et les dernières informations en visitant le site Web suivant:
 
 http://www.freenove.com
