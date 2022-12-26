@@ -2,7 +2,7 @@
 
 > Ceci est une tentative de traduire ce tutoriel en français 
 
-> Une kit pour des projets pour Raspberry Pi Pico ( Pico W ).
+> Un kit pour des projets pour Raspberry Pi Pico ( Pico W ).
 
 <img src='Picture/PartsList.jpg' width='100%'/>
 
